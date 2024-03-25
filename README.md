@@ -12,9 +12,6 @@ and by mistakenly I uploaded node modules but you can ignore it
 
 
 
-# Hi, I'm Shanya! 👋
-
-
 ## Getting Start
 
 Clone this repository: git clone https://github.com/your-username/food-nutrition-api.git
